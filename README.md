@@ -4,8 +4,6 @@
 
 I am a bioinformatics analyst at Massachusetts General Hospital, Department of Neurology, MassGeneral Institute for Neurodegenerative Disease Data Science Lab (MINDDS).
 
-I love programming, suspense movies, and drawing. 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhaozhi-li-10749a14a/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/zhaozhi-li-10749a14a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jerry_zhaozhi)
@@ -22,6 +20,7 @@ I love programming, suspense movies, and drawing.
 - 👾 I'm currently working with high-through put biological data
 - 🚀 I'm currently learning deep learning
 - 💬 I was born in China and now living in Boston.
+- ❤️ I love programming, suspense movies, and drawing. 
 
 
 ### 🛠 Languages and Tools:
