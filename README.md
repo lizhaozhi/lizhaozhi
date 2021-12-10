@@ -20,17 +20,18 @@ I love programming, suspense movies, and drawing.
 
 - 💻 Education: Sichuan University(BS); Northeastern University(MS)
 - 📫 Contact: lizhaoz@outlook.com
-- 🛠 I'm currently working with high-through put biological data
+- 👾 I'm currently working with high-through put biological data
 - 🚀 I'm currently learning deep learning
 - 💬 I was born in China and now living in Boston.
 
 
-👾 **Languages and Tools:**
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png" alt="R"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+🛠 **Languages and Tools:**
+
+<code><img height="27" src="images/R_logo.png"></code>
+<code><img height="27" src="images/python.png"></code>
+<code><img height="27" src="images/bash.png"></code>
+<code><img height="27" src="images/perl.png"></code>
+<code><img height="27" src="images/mysql.jpeg"></code>
 
 
 📝 **Latest Publication:**
@@ -41,5 +42,5 @@ Serrano-Pozo, A., **Li, Z.**, Noori, A., Nguyen, H. N., Mezlini, A., Li, L., ...
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lizhaozhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhaozhi&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhaozhi&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true"/>
 </p>
