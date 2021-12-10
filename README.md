@@ -11,12 +11,13 @@ I love programming, suspense movies, and drawing.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jerry_zhaozhi)
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zhaozhili)
 
-
+<br>
 
 ### Glad to see you here! <img src="https://c.tenor.com/3_mXIoBPNhoAAAAi/party-parrot.gif" width="25px">
 
+<br>
 
-🌱 **Talking about Personal Stuffs::**
+🌱 **Talking about Personal Stuffs:**
 
 - 💻 Education: Sichuan University(BS); Northeastern University(MS)
 - 📫 Contact: lizhaoz@outlook.com
@@ -24,23 +25,28 @@ I love programming, suspense movies, and drawing.
 - 🚀 I'm currently learning deep learning
 - 💬 I was born in China and now living in Boston.
 
+<br>
 
 🛠 **Languages and Tools:**
 
-<code><img height="27" src="images/R_logo.png"></code>
-<code><img height="27" src="images/python.png"></code>
-<code><img height="27" src="images/bash.png"></code>
-<code><img height="27" src="images/perl.png"></code>
-<code><img height="27" src="images/mysql.jpeg"></code>
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=ffffff)](https://www.r-project.org)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=ffffff)]()
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+[![html](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)]()
 
+<br>
 
 📝 **Latest Publication:**
 
 Serrano-Pozo, A., **Li, Z.**, Noori, A., Nguyen, H. N., Mezlini, A., Li, L., ... & Das, S. (2021). Effect of APOE alleles on the glial transcriptome in normal aging and Alzheimer’s disease. Nature Aging, 1(10), <a href="https://www.researchgate.net/publication/355183269_Effect_of_APOE_alleles_on_the_glial_transcriptome_in_normal_aging_and_Alzheimer's_disease">919-931.</a>
 
+<br>
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhaozhi&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhaozhi&show_icons=true&hide_border=true&layout=compact&langs_count=8&count-private=true"/>
 </p>
