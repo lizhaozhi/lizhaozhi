@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" margin-right="100" alt="zhaozhili" src="images/hi.png"/>
 
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Zhaozhi Li</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Zhaozhi Li</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a bioinformatics analyst at Massachusetts General Hospital, Department of Neurology, MassGeneral Institute for Neurodegenerative Disease Data Science Lab (MINDDS).
 
@@ -11,13 +11,11 @@ I love programming, suspense movies, and drawing.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jerry_zhaozhi)
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zhaozhili)
 
-<br>
 
-### Glad to see you here! <img src="https://c.tenor.com/3_mXIoBPNhoAAAAi/party-parrot.gif" width="25px">
+## Glad to see you here! <img src="https://c.tenor.com/3_mXIoBPNhoAAAAi/party-parrot.gif" width="25px">
 
-<br>
 
-🌱 **Talking about Personal Stuffs:**
+### 🌱 Talking about Personal Stuffs:
 
 - 💻 Education: Sichuan University(BS); Northeastern University(MS)
 - 📫 Contact: lizhaoz@outlook.com
@@ -25,9 +23,8 @@ I love programming, suspense movies, and drawing.
 - 🚀 I'm currently learning deep learning
 - 💬 I was born in China and now living in Boston.
 
-<br>
 
-🛠 **Languages and Tools:**
+### 🛠 Languages and Tools:
 
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=ffffff)](https://www.r-project.org)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -37,15 +34,13 @@ I love programming, suspense movies, and drawing.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![html](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)]()
 
-<br>
 
-📝 **Latest Publication:**
+### 📝 Latest Publication:
 
 Serrano-Pozo, A., **Li, Z.**, Noori, A., Nguyen, H. N., Mezlini, A., Li, L., ... & Das, S. (2021). Effect of APOE alleles on the glial transcriptome in normal aging and Alzheimer’s disease. Nature Aging, 1(10), <a href="https://www.researchgate.net/publication/355183269_Effect_of_APOE_alleles_on_the_glial_transcriptome_in_normal_aging_and_Alzheimer's_disease">919-931.</a>
 
-<br>
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats:
 
 <p>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhaozhi&show_icons=true&hide_border=true&layout=compact&langs_count=8&count-private=true"/>
