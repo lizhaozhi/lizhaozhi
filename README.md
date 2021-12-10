@@ -7,7 +7,7 @@ I am a bioinformatics analyst at Massachusetts General Hospital, Department of N
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhaozhi-li-10749a14a/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/zhaozhi-li-10749a14a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jerry_zhaozhi)
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zhaozhili)
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lizhaozhi)
 
 
 ### Glad to see you here! <img src="https://c.tenor.com/3_mXIoBPNhoAAAAi/party-parrot.gif" width="25px">
