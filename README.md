@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" margin-right="100" alt="zhaozhili" src="images/hi.png"/>
 
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Zhaozhi Li</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Zhaozhi Li
 
 I am a bioinformatics analyst at Massachusetts General Hospital, Department of Neurology, MassGeneral Institute for Neurodegenerative Disease Data Science Lab (MINDDS).
 
