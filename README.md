@@ -1,3 +1,5 @@
+<img align="left" width="150" height="150" margin-right="100" alt="zhaozhili" src="images/hi.png"/>
+
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Zhaozhi Li</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhaozhi-li-10749a14a/)
