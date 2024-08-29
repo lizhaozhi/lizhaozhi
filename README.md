@@ -18,8 +18,6 @@ I am a bioinformatics analyst at Massachusetts General Hospital, Department of N
 - 💻 Education: Sichuan University(BS); Northeastern University(MS); Cornell University(Ph.D.)
 - 📫 Contact: lizhaoz@outlook.com
 - 👾 I'm currently working with high-through put biological data
-- 🚀 I'm currently learning deep learning
-- 💬 I was born in China and now living in Boston.
 - ❤️ I love programming, suspense movies, and drawing. 
 
 
